@@ -3393,7 +3393,7 @@ MonoBehaviour:
   - {fileID: -6720678580079268883, guid: e5084d4f6a0b4de47975599a4a16c43b, type: 3}
   - {fileID: -3182384148269977554, guid: 29c8eae32206afa46a26c501bd3e1ec6, type: 3}
   spawnTime: 1.2
-  timeLimit: 10
+  timeLimit: 30
   player: {fileID: 695941747}
 --- !u!4 &1443388625
 Transform:
