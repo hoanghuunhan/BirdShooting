@@ -1,2 +1,2 @@
 # BirdShooting
-this is a game TPS 2D
+Game FPS 2D
